@@ -1,2 +1,2 @@
 # test
-just a test
+print("hi, in Python")
